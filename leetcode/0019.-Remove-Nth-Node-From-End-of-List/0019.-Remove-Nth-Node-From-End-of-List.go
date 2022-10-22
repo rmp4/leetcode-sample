@@ -1,6 +1,6 @@
 package leetcode
 
-import "github.com/halfrost/LeetCode-Go/structures"
+import "github.com/rmp4/leetcode-sample/structures"
 
 type ListNode = structures.ListNode
 
